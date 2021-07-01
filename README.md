@@ -1,2 +1,2 @@
 # ConnectFour
-Uses object-oriented programming
+A Connect Four Game that uses Object-Oriented Programming
